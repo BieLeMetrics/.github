@@ -1,3 +1,6 @@
+<!-- GENERIERTE DATEI - NICHT IM REPO ".github" BEARBEITEN.
+     Quelle: BieLeMetrics-Website/org-profile/README.md
+     Die Synchronisation macht .github/workflows/sync-org-profile.yml. -->
 <h1 align="center">BieLeMetrics</h1>
 
 <p align="center">
